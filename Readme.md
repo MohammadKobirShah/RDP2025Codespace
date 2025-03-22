@@ -1,4 +1,4 @@
-Sure! Here’s the **English translation** of your `README.md` file:  
+
 
 ---
 
